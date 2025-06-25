@@ -51,4 +51,3 @@ With a single click, users can toggle between **dark mode** and **light mode** u
 ## 💬 Connect with Me
 
 If you're learning JavaScript or looking to collaborate, feel free to reach out or follow my journey here and on [LinkedIn](https://linkedin.com/in/Wesley-j-6baba1)
-Sent from my iPhone
